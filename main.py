@@ -6,7 +6,7 @@ def kelvin_to_celsius(kelvin):
 
 
 # Set up the API URL with your API key
-url = 'http://api.openweathermap.org/data/2.5/forecast?id=360630&appid=9fe92b9d60df10c7b53e0445136bb443'
+url = 'Put your API key'
 
 try:
     # Send the GET request to the API
